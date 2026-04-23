@@ -36,7 +36,11 @@
 ---
 
 ## 📂 Projects
-
+ 🔹 **Jewellery Website**  
+- Developed a responsive jewellery e-commerce website  
+- Features: Product listing, category filtering, and attractive UI design  
+- Built using HTML, CSS, JavaScript
+- 
 🔹 **E-Learning Platform**  
 - Developed a web-based learning system using Django  
 - Features: User login, course management, and content delivery  
