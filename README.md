@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi there 👋 I'm Geethika Rajeev K
 
-<!--
-**Geethika-Rajeev-K/Geethika-Rajeev-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 MCA graduate passionate about technology and development  
+- 💡 Interested in Web Development, Python, and Software Engineering  
+- 🌱 Currently improving my skills in Django, React, and Backend Development  
+- 🎯 Goal: To build impactful and user-friendly applications  
+
+---
+
+## 🛠️ Tech Stack
+
+💻 Languages  
+- Python 🐍  
+- Java ☕  
+- JavaScript ⚡  
+
+🌐 Web Development  
+- HTML, CSS  
+- React.js  
+- Django  
+
+🗄️ Database  
+- MySQL  
+- SQLite  
+
+⚙️ Tools  
+- Git & GitHub  
+- VS Code  
+- Copilot  
+
+---
+
+## 📂 Projects
+
+🔹 **E-Learning Platform**  
+- Developed a web-based learning system using Django  
+- Features: User login, course management, and content delivery  
+
+🔹 **Portfolio Website**  
+- Built a personal portfolio using React  
+- Showcases projects and skills  
+
+🔹 **Python Mini Projects**  
+- Various problem-solving and logic-based programs  
+
+---
+
+## 📈 GitHub Stats
+
+![Geethika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geethika-Rajeev-K&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: (Add your link)
+- 📧 Email: (Add your email)
+
+---
+
+## ✨ Fun Fact
+💡 "I love turning ideas into real-world applications!"
+
