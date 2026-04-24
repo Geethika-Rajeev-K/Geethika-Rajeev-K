@@ -62,8 +62,8 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/geethika-k-20016a259/
+- 📧 Email: geethikarajeevk@gmail.com
 
 ---
 
